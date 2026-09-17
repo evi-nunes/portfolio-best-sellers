@@ -1,0 +1,14 @@
+# Dados brutos (muito pesados)
+dados/*.csv
+
+# Arquivos do sistema
+.DS_Store
+__pycache__/
+*.pyc
+
+# Notebooks checkpoint
+.ipynb_checkpoints/
+
+# Ambientes Python
+venv/
+env/
